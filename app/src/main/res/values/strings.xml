@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple-MVP-Architecture</string>
+    <string name="home_view_here">Home Screen</string>
+</resources>
